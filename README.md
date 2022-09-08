@@ -1,2 +1,0 @@
-# Food-Truck-Rails-New
- 
